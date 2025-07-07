@@ -1,0 +1,1 @@
+This Project consists of a Graph Neural Network Approch towards predicting how basketball games will end. Using a generalized graph convolutional neural network, we're able to build a graph that learns how each player contributes to their team and also learns how players interact with each other through weighted edges between players who assist/foul/rebound/block each other.  
