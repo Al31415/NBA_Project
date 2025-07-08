@@ -17,7 +17,7 @@ structures. A heterogeneous graph model is employed, using:
 ---
 
 ## Accuracy
-Achieves **80% accuracy** when predicting game outcomes from just the **first half** of play-by-play data
+Achieves **75% accuracy** when predicting game outcomes from just the **first half** of play-by-play data
 
 ---
 
