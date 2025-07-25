@@ -4,7 +4,7 @@ This repository contains code and data for predicting the winner of NBA games us
 
 ---
 
-## 📌 Overview
+## Overview
 
 ### What is this project about?
 
@@ -23,7 +23,7 @@ Achieves **75% accuracy** when predicting game outcomes from just the **first ha
 
 ## ⚙️ Getting Started
 
-### 🧱 Installation
+###  Installation
 
 Clone this repository and install the necessary packages:
 
@@ -47,7 +47,7 @@ Ensure the following CSV files are in the data directory:
 
 ---
 
-### 🏃‍♂️ Training and Evaluation
+### Training and Evaluation
 
 To train the Graph Neural Network model, simply run:
 
