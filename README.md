@@ -1,4 +1,4 @@
-# 🏀 NBA Game Winner Prediction Using Graph Neural Networks
+# NBA Game Winner Prediction Using Graph Neural Networks
 
 This repository contains code and data for predicting the winner of NBA games using **Graph Neural Networks (GNNs)**. Players and their interactions during a game are modeled as a **heterogeneous graph** to capture intricate relationships and predict game outcomes effectively.
 
@@ -21,7 +21,7 @@ Achieves **75% accuracy** when predicting game outcomes from just the **first ha
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ###  Installation
 
@@ -36,7 +36,7 @@ pipenv shell
 ```
 ---
 
-### 📂 Data
+### Data
 
 Ensure the following CSV files are in the data directory:
 
@@ -54,13 +54,13 @@ To train the Graph Neural Network model, simply run:
 ```bash
 python main.py
 ```
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions, suggestions, or feedback, feel free to reach out:
 
