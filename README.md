@@ -65,6 +65,6 @@ This project is licensed under the **MIT License**
 For questions, suggestions, or feedback, feel free to reach out:
 
 **Alagu Thiagarajan**  
-📧 [alaguthiagarajan123@gmail.com](mailto:alaguthiagarajan123@gmail.com)
+[alaguthiagarajan123@gmail.com](mailto:alaguthiagarajan123@gmail.com)
 
 ---
